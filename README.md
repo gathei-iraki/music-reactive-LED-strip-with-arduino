@@ -7,3 +7,9 @@ The `arduinoFFT` library is used to perform FFT on sampled sound data to extract
 2.WS2812B LED STRIP<br>
 3.5V EXTERNAL POWER SUPPLY <br>
 4.SOUND SENSOR MODULE(preferrably the ky-038 sound sensor module)<br>
+<b>HOW TO GET STARTED</b><br>
+The components are connected in the following way:<br>
+<b>NB!THE POTENTIOMETER IS USED TO REPRESENT THE SOUND SENSOR MODULE</b><br>
+![My Image](./schematics/MUSIC%20INTERACTIVE%20LED.PNG) <br>
+
+
