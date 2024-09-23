@@ -12,12 +12,16 @@ The `arduinoFFT` library is used to perform FFT on sampled sound data to extract
 
 <b>(4)HOW TO GET STARTED</b><br>
 
-      <b>(a)Hardware Compponents</b>
 The components are connected in the following way:<br>
 <b>NB!THE POTENTIOMETER IS USED TO REPRESENT THE SOUND SENSOR MODULE</b><br>
+
 ![My Image](./schematics/MUSIC%20INTERACTIVE%20LED.PNG) <br>
 You can find a more detailed pdf schematic in the schematics folder<br>
+
 <b>Explanation</b><br>
 (1)The negative wire (ground) of the LED strip is wired to the negative terminal of the external power supply.<br>
 (2)The positive wire of the LED strip is wired to the positive terminal of the external power supply.<br>
-(3)The data input of the LED strip is wired to pin A5 on the Arduino, enabling communication between the Arduino and the LED strip.<br>
+(3)The data input of the LED strip is wired to Digital pin 6 on the Arduino, enabling communication between the Arduino and the LED strip.<br>
+(4)The analog pin (A0) of the sound sensor module is wired to Analog pin A5 on the Arduino.<br>
+(5)The ground pin of the sound sensor module is wired to the GND pin on the Arduino.<br>
+(6)The positive pin of the sound sensor module is wired to the 3.3V Power pin on the Arduino.<br>
