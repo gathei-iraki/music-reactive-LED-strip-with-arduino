@@ -14,7 +14,7 @@ The `arduinoFFT` library is used to perform FFT on sampled sound data to extract
 The components are connected in the following way:<br>
 <b>NB!THE POTENTIOMETER IS USED TO REPRESENT THE SOUND SENSOR MODULE</b><br>
 
-![My Image](./schematics/MUSIC%20INTERACTIVE%20LED.PNG) <br>
+![Circuit](./schematics/MUSIC%20INTERACTIVE%20LED.PNG) <br>
 You can find a more detailed pdf schematic in the schematics folder<br>
 
 <b>Explanation</b><br>
@@ -31,6 +31,9 @@ You can find a more detailed pdf schematic in the schematics folder<br>
 
 <b>(5)SEE THE INTERACTIVE LED STRIP IN ACTION</b><br>
 Check out the following videos to see how the complete project will work:<br>
+[VIDEO 1](https://drive.google.com/file/d/11-S5hL0MkxJGUb328LEGPC7do5Jnc3H2/view?usp=sharing) <br>
+ [VIDEO 2](https://drive.google.com/file/d/1HRD5__rri-5ZqSJkbrsXXjLl8hAZy83R/view?usp=sharing)<br>
+
 
 
 
