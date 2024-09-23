@@ -11,7 +11,6 @@ The `arduinoFFT` library is used to perform FFT on sampled sound data to extract
 4.SOUND SENSOR MODULE(preferrably the ky-038 sound sensor module)<br>
 
 <b>(4)HOW TO GET STARTED- Hardware Components</b><br>
-
 The components are connected in the following way:<br>
 <b>NB!THE POTENTIOMETER IS USED TO REPRESENT THE SOUND SENSOR MODULE</b><br>
 
@@ -26,7 +25,12 @@ You can find a more detailed pdf schematic in the schematics folder<br>
 (5)The ground pin of the sound sensor module is wired to the GND pin on the Arduino.<br>
 (6)The positive pin of the sound sensor module is wired to the 3.3V Power pin on the Arduino.<br>
 
-<b>(4)HOW TO GET STARTED- Code</b><br>
+<b>(5)HOW TO GET STARTED- Code</b><br>
 -Import the two zip files in the libraries folder onto your Arduino IDE <br>
 -Copy the interactive_led.ino code file into the IDE, compile and upload the code into the arduino<br>
+
+<b>(5)SEE THE INTERACTIVE LED STRIP IN ACTION</b><br>
+Check out the following videos to see how the complete project will work:<br>
+
+
 

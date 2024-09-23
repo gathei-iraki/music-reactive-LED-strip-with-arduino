@@ -10,7 +10,7 @@ const uint8_t LED_PIN = 6;
 const uint8_t ENV_PIN = A5;
 
 const uint16_t samples = 64;
-const uint16_t num_pixels = 160;
+const uint16_t num_pixels = 60;
 const uint8_t loop_num = 1;
 const uint16_t sound_thresh = 100;
 
